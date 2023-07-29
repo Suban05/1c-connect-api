@@ -1,6 +1,6 @@
-# Реализация bot-api 1С-Коннект
+# Реализация bot-api 1С-Коннект на OneScript
 
-Библиотека является оберткой над bot-api 1С-Коннект. Ознакомиться с api можно [здесь](https://1c-connect.atlassian.net/wiki/spaces/PUBLIC/pages/1355841626)
+Библиотека является оберткой над bot-api 1С-Коннект на OneScript. Ознакомиться с api можно [здесь](https://1c-connect.atlassian.net/wiki/spaces/PUBLIC/pages/1355841626)
 
 ## Установка
 
